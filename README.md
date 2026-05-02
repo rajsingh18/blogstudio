@@ -57,11 +57,13 @@ A full-featured blog platform with authentication, CRUD operations, comments sys
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/blog-platform.git
-cd blog-platform
+git clone https://github.com/rajsingh18/blogstudio.git
+cd blog_platform
 
-for backend 
+for backend
+cd backend
 run: node server.js 
 
 for frontend
+cd frontend
 run: npm start
